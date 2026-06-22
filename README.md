@@ -157,6 +157,6 @@ Strong communication skills with experience coordinating stakeholders, developer
 
 📧 Email: [matheuspereira6464@gmail.com](mailto:matheuspereira6464@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/matheuspereira
+💼 LinkedIn: [linkedin.com/in/matheuspereira](https://www.linkedin.com/in/matheus-pereira64/)
 
 🐙 GitHub: github.com/MatheusPereira64
