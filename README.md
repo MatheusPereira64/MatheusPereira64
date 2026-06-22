@@ -157,6 +157,8 @@ Strong communication skills with experience coordinating stakeholders, developer
 
 📧 Email: [matheuspereira6464@gmail.com](mailto:matheuspereira6464@gmail.com)
 
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 💼 LinkedIn: [linkedin.com/in/matheuspereira](https://www.linkedin.com/in/matheus-pereira64/)
 
 🐙 GitHub: github.com/MatheusPereira64
