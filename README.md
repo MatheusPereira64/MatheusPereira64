@@ -127,9 +127,11 @@ Federal University of Amazonas (UFAM)
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusPereira64\&show_icons=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusPereira64\&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPereira64\&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusPereira64\&theme=github_dark)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusPereira64\&theme=github_dark)
 
 ---
 
