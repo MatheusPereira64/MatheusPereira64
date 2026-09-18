@@ -170,45 +170,6 @@ Currently involved in research and development initiatives focused on software e
 
 ---
 
-## 🧰 Development Philosophy
-
-### From Requirements to Delivery
-
-I combine software engineering, business analysis and project management to transform requirements into scalable software solutions.
-
-### Frontend Engineering
-
-I focus on building responsive, maintainable and performant interfaces with modern frontend technologies.
-
-### API & Backend Integration
-
-Experience integrating REST APIs and developing backend services using Node.js, Python, Java and PHP.
-
-### Industry 4.0
-
-I develop software solutions that connect industrial processes, real-time data, IoT and modern web technologies.
-
-### AI-Assisted Development
-
-I actively explore AI-powered development tools to improve developer productivity, code quality and software engineering workflows.
-
-### Team Collaboration
-
-Experience working with multidisciplinary teams, coordinating development tasks, reviewing code and aligning technical execution with business requirements.
-
----
-
-## 🎓 Education
-
-### Bachelor's Degree in Computer Engineering
-
-**FAMETRO**  
-2019 – 2024
-
-### Technical Degree in Information Technology
-
----
-
 ## 🌍 Languages
 
 🇧🇷 **Portuguese** — Native
